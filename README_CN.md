@@ -143,7 +143,7 @@
 ### 配置 GitHub 仓库
 
 1. Fork 或克隆仓库 [https://github.com/ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste)
-2. 进入您的 GitHub 仓库设置
+2. 进入您的 GitHub 仓库设置.
 3. 转到 Settings → Secrets and variables → Actions → New Repository secrets
 4. 添加以下 Secrets：
 
